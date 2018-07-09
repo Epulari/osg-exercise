@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OSG_12_Texture3D", "OSG_12_Texture3D\OSG_12_Texture3D.vcxproj", "{F0CCD1E9-FF23-48E9-AC14-C0B996749E25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0CCD1E9-FF23-48E9-AC14-C0B996749E25}.Debug|x64.ActiveCfg = Debug|x64
+		{F0CCD1E9-FF23-48E9-AC14-C0B996749E25}.Debug|x64.Build.0 = Debug|x64
+		{F0CCD1E9-FF23-48E9-AC14-C0B996749E25}.Debug|x86.ActiveCfg = Debug|Win32
+		{F0CCD1E9-FF23-48E9-AC14-C0B996749E25}.Debug|x86.Build.0 = Debug|Win32
+		{F0CCD1E9-FF23-48E9-AC14-C0B996749E25}.Release|x64.ActiveCfg = Release|x64
+		{F0CCD1E9-FF23-48E9-AC14-C0B996749E25}.Release|x64.Build.0 = Release|x64
+		{F0CCD1E9-FF23-48E9-AC14-C0B996749E25}.Release|x86.ActiveCfg = Release|Win32
+		{F0CCD1E9-FF23-48E9-AC14-C0B996749E25}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1FAD065-CE42-4E57-9936-37589123B926}
+	EndGlobalSection
+EndGlobal
