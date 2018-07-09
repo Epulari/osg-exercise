@@ -53,6 +53,3 @@
 
 ## 13.OSG_13_TextureCoords  
 　　　　![OSG_13_TextureCoords](OSG_13_TextureCoords/OSG_13_TextureCoords.gif)
-
-## 13.OSG_13_TextureCoords  
-　　　　![OSG_13_TextureCoords](OSG_13_TextureCoords/OSG_13_TextureCoords.gif)
