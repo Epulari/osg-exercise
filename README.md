@@ -1,4 +1,6 @@
 # osg-exercise
+
+## 配置
 注意：在运行工程前需要配置OSG的系统环境及OSG的工程环境。  
 配置系统环境：    
 　　1) 添加系统变量：OSG_FILE_PATH，变量值为编译好的OSG的data文件夹所在路径；    
@@ -9,6 +11,9 @@
 若在运行程序时遇到报错“找不到Windows SDK版本10.0.17134.0”则可以进行以下操作：  
 　　1）右键单击“解决方案”，选择“重定解决方案目标”。推荐使用此方法。  
 　　2）可以修改VS，安装SDK的该版本。此方法较耗时。  
+
+## 学习链接：
+[OSG-C++/CLI从零开始](https://blog.csdn.net/column/details/22766.html/)
 
 ## 0.OSG_0_RunModel  
 　　　　![OSG_0_RunModel](OSG_0_RunModel/OSG_0_RunModel.gif)
@@ -53,3 +58,9 @@
 
 ## 13.OSG_13_TextureCoords  
 　　　　![OSG_13_TextureCoords](OSG_13_TextureCoords/OSG_13_TextureCoords.gif)
+
+## 14.OSG_14_TextureLight  
+　　　　![OSG_14_TextureLight](OSG_14_TextureLight/OSG_14_TextureLight.gif)
+
+## 15.OSG_15_TextureSpotLight  
+　　　　![OSG_15_TextureSpotLight](OSG_15_TextureSpotLight/OSG_15_TextureSpotLight.gif)
