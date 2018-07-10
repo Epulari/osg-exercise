@@ -420,3 +420,5 @@ ASALocalRun/
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
 
+/123/
+!/233/234.txt
