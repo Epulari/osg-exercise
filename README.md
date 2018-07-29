@@ -74,8 +74,5 @@
 ## 18.OSG_18_MultipleViewCameras
 　　　　![OSG_18_MultipleViewCameras](OSG_18_MultipleViewCameras/OSG_18_MultipleViewCameras.gif)
 
-## 19. OSG_17_SingleWindowMultipleCameras
-　　　　![ OSG_17_SingleWindowMultipleCameras]( OSG_17_SingleWindowMultipleCameras/ OSG_17_SingleWindowMultipleCameras.gif)
-
-## 20. OSG_17_SingleWindowMultipleCameras
-　　　　![ OSG_17_SingleWindowMultipleCameras]( OSG_17_SingleWindowMultipleCameras/ OSG_17_SingleWindowMultipleCameras.gif)
+## 19.OSG_19_MultipleViewMultipleWindow
+　　　　![OSG_19_MultipleViewMultipleWindow](OSG_19_MultipleViewMultipleWindow/OSG_19_MultipleViewMultipleWindow.gif)
